@@ -9,6 +9,7 @@ __pycache__/
 *.so
 
 schema.sql
+Data.json
 
 # Archivos de distribución / empaquetado
 *.egg
