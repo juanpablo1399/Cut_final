@@ -8,7 +8,7 @@ __pycache__/
 *.py[cod]
 *.so
 
-Schemasql.sql
+Schema.sql
 
 # Archivos de distribución / empaquetado
 *.egg
