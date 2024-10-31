@@ -3,6 +3,7 @@ from app.models import (TeamCreate, Team, PlayerCreate, Player, CoachCreate, Coa
 from app.database import get_db_connection
 from typing import List
 from datetime import datetime
+import mysql.connector
 
 router = APIRouter()
 
